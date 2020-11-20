@@ -1,0 +1,3 @@
+181312202;7.3;8.8;5.9;Ana Maria de Oliveira
+181312198;4.4;3.7;7.6;Carlos Alberto Mancini
+181212155;7.9;5.3;6.1;Eduardo Mendes Junqueira
